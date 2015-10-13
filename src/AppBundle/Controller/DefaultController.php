@@ -27,6 +27,6 @@ class DefaultController extends Controller
     {
 		echo "hsdfsdfsdf";
         // replace this example code with whatever you need
-        return $this->render('<html><body>Umm</body></html>',array('base_dir'=>'sad'));
+        return $this->render('<html><body>Jooooooooo</body></html>',array('base_dir'=>'sad'));
     }
 }
